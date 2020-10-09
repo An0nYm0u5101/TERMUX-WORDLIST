@@ -1,0 +1,14 @@
+
+ad=umut
+soyad=kara
+sehir=manisa
+memleket=bitlis
+splaka=45
+mplaka=13
+yil=2020
+dogumyil=1997
+dogumay=02
+dogumgun=15
+takim=galatasaray
+ktakim=gs
+tyil=1905
