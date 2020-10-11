@@ -39,7 +39,7 @@ fi
 
 guncelleme=$(curl -s "https://github.com/termux-egitim/$buyukad" |grep -o 16.09.2020)
 readme=$(sed -n 3p README.md |tr -d "Güncelleme ")
-if [ "$guncelleme" != "$readme" ];then
+if [ "$guncelleme" = "$readme" ];then
 	echo
 else
 	kontrol=$(curl -s https://github.com/termux-egitim/$kucukad |grep -o not-found |wc -w)
