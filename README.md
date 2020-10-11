@@ -1,3 +1,3 @@
 termux-wordlist
 TERMUX-WORDLIST
-Güncelleme 09.10.2020
+Güncelleme 11.10.2020
